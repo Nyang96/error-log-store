@@ -20,9 +20,10 @@
     "type-check": "tsc --noEmit"
   },
   "devDependencies": {
-    "@types/node": "^25.5.2",
+    "@types/node": "^22.19.17",
     "typescript": "^6.0.2",
     "vite": "^8.0.4",
     "vite-plugin-dts": "^4.5.4"
-  }
+  },
+  "license": "MIT"
 }
